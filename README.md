@@ -15,7 +15,7 @@
   <img align="center" alt="bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg">
   <img align="center" alt="jquery" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original-wordmark.svg">
   <img align="center" alt="vueJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg">
-  <img align="right" height="150px" style="border-radius:50px;" alt="gif" src="https://i.pinimg.com/originals/c2/89/cf/c289cfe2069f566165705b37403d8eda.gif">
+  <img align="right" height="150px" alt="gif" src="https://i.pinimg.com/originals/c2/89/cf/c289cfe2069f566165705b37403d8eda.gif">
 </div>
   
   ##
