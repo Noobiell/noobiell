@@ -1,5 +1,7 @@
 ## AOOOBA, sou o Gabriel Oliveira ;D
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F965&width=435&separator=%3C&lines=AOOOBA%2C+sou+o+Gabriel+Oliveira+;D)](https://git.io/typing-svg)
+
 <div align="center">
   <a href="https://noobiel.vercel.app" target="_blank">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Noobiell&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
@@ -28,7 +30,5 @@
   <a href = "mailto:gabrielli9797@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gabriel-de-lima-oliveira-548b48173/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 <div>
-  
-  ## ![Snake animation](https://github.com/Noobiell/noobiell/blob/output/github-contribution-grid-snake.svg)
 
   [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Noobiell&bg_color=101332&color=828282&line=00f965&point=0e6cd8&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
